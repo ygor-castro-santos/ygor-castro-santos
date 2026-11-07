@@ -24,7 +24,7 @@ With a strong track record of bridging complex business requirements with scalab
 <h3 align="left">📐 Data & Platform Architecture Pattern</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ygor-castro-santos/ygor-castro-santos/main/docs/architecture.png" alt="Data & Platform Architecture Pattern" width="100%" />
+  <img src="docs/architecture.png" alt="Data & Platform Architecture Pattern" width="100%" />
 </p>
 
 ## 🛠️ Core Technical Stack
